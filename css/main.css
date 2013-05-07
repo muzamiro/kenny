@@ -1,0 +1,22 @@
+@charset "UTF-8";
+.resize {
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+	max-width:100%;
+	height:auto;
+	background-color: #333;
+}
+
+
+h1 {
+	text-align: center;
+	display: block;
+}
+#buttonss {
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+	height: 80px;
+	width: 100px;
+}
